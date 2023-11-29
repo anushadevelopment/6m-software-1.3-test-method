@@ -1,3 +1,5 @@
+/* eslint-env jest */
+
 const {studentList, printStudentNames} = require("./q2-arrays-loop");
 const {convert} = require("./q3-objects");
 

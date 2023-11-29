@@ -1,0 +1,11 @@
+{
+  "name": "6m-software-1.3-test-method",
+  "version": "1.0.0",
+  "description": "Refer to the following markdown file for the respective sections of the class:\r - [Self Studies](./studies.md)\r - [Lesson](./lesson.md)\r - [Assignment](./assignment.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
